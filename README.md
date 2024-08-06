@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
- Eai, tudo bem? Eu sou o 
+ Olá, tudo bem? Eu sou o Luciano Seles
   <a href="https://br.linkedin.com/in/luciano-seles-0ba05a8b?trk=people-guest_people_search-card">Luciano Seles</a>
   </h1>  
 </div>
